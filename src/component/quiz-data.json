@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is JavaScript?",
+      "options": [
+        "A type of coffee",
+        "A programming language",
+        "A popular book",
+        "A clothing brand"
+      ],
+      "answer": "A programming language"
+    },
+    {
+      "question": "What does 'DOM' stand for in JavaScript?",
+      "options": [
+        "Document Object Model",
+        "Dynamic Object Model",
+        "Data Object Manipulation",
+        "Document of Media"
+      ],
+      "answer": "Document Object Model"
+    },
+    {
+      "question": "How do you declare a variable in JavaScript?",
+      "options": [
+        "let",
+        "variable",
+        "var",
+        "const"
+      ],
+      "answer": "var"
+    },
+    {
+      "question": "What is a JavaScript function?",
+      "options": [
+        "A type of food",
+        "A reusable block of code",
+        "A design pattern",
+        "A software application"
+      ],
+      "answer": "A reusable block of code"
+    },
+    {
+      "question": "Which operator is used for equality in JavaScript?",
+      "options": [
+        "==",
+        "=",
+        "===",
+        "!="
+      ],
+      "answer": "==="
+    },
+    {
+      "question": "What is the purpose of the 'return' statement in a function?",
+      "options": [
+        "To declare a variable",
+        "To exit a loop",
+        "To specify a data type",
+        "To send a value back"
+      ],
+      "answer": "To send a value back"
+    },
+    {
+      "question": "What is an array in JavaScript?",
+      "options": [
+        "A type of car",
+        "A list of values",
+        "A mathematical equation",
+        "A programming language"
+      ],
+      "answer": "A list of values"
+    },
+    {
+      "question": "How do you write a comment in JavaScript?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "# This is a comment",
+        "Comment: This is a comment"
+      ],
+      "answer": "// This is a comment"
+    },
+    {
+      "question": "What is an example of a JavaScript framework/library?",
+      "options": [
+        "React",
+        "CoffeeScript",
+        "HTML",
+        "CSS"
+      ],
+      "answer": "React"
+    },
+    {
+      "question": "What is an event handler in JavaScript?",
+      "options": [
+        "A computer mouse",
+        "A software bug",
+        "A function that responds to an event",
+        "A type of document"
+      ],
+      "answer": "A function that responds to an event"
+    }
+  ]
+  
